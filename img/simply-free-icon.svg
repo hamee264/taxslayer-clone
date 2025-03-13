@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Simply-Free-icon</title>
+    <g id="Simply-Free-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(1, 1)">
+            <path d="M0,17.578125 C0,27.2862554 7.86999463,35.15625 17.578125,35.15625 C27.2862554,35.15625 35.15625,27.2862554 35.15625,17.578125 C35.15625,7.86999463 27.2862554,0 17.578125,0 C7.86999463,0 0,7.86999463 0,17.578125 Z" id="Path" fill="#EAF4DD"></path>
+            <g id="Group" transform="translate(9.9531, 8.9531)" stroke="#11881B" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M3.70338288,8.20169211 L5.75098021,11.1081529 C6.16896143,11.7005384 6.98085165,11.836617 7.56515,11.4135901 C7.65487371,11.3485091 7.73657336,11.2715951 7.80733108,11.1858064 L17,0" id="Stroke-1"></path>
+                <path d="M14.3623598,8 L14.3623598,13.9196249 C14.3623598,15.0688972 13.4439683,16 12.3103857,16 L2.0519741,16 C0.918391538,16 0,15.0688972 0,13.9196249 L0,3.51922849 C0,2.36995622 0.918391538,1.43885339 2.0519741,1.43885339 L10.7719522,1.43885339" id="Stroke-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

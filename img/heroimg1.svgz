@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="49px" viewBox="0 0 60 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>11-million</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="60" height="36"></rect>
+    </defs>
+    <g id="social-proof-montage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="&gt;1400px-(Large-Desktop)" transform="translate(-566, -339)">
+            <g id="11-million" transform="translate(566, 341)">
+                <g id="Group-7" transform="translate(0, 11)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Rectangle"></g>
+                    <circle id="Oval" fill="#FCE7DE" mask="url(#mask-2)" cx="30" cy="30" r="30"></circle>
+                </g>
+                <g id="Group-2" transform="translate(6, 0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                    <path d="M47,24.6666667 C47,30.018106 42.6321985,34.3571429 37.245283,34.3571429 C31.8571783,34.3571429 27.490566,30.018106 27.490566,24.6666667 C27.490566,19.3152273 31.8571783,14.9761905 37.245283,14.9761905" id="Stroke-1" stroke="#D82631"></path>
+                    <path d="M47,17.6190476 L38.2119244,26.9459323 C37.7410507,27.430721 36.9930544,27.430721 36.5233551,26.9459323 L33.6981132,24.0060444" id="Stroke-3" stroke="#D82631"></path>
+                    <path d="M26.1459969,35.2971664 C25.7979833,36.3354959 24.8074831,37.0269447 23.705246,36.9991942 C22.603009,36.9726001 21.6474265,36.2337442 21.3517896,35.1803832 L17.5608857,19.5418457 L1.82811075,15.7943781 C0.768938947,15.4972169 0.0275186882,14.5490764 0.000748411998,13.4564023 C-0.0260218642,12.3625718 0.667677467,11.3797432 1.71171824,11.0328626 L35.5854291,0.0621828051 C36.0381959,-0.0846633509 36.534028,0.0332760815 36.8715662,0.366281538 C37.2091045,0.699286994 37.3301527,1.19185756 37.1846621,1.64164618 C36.0184092,5.19948573 34.9988108,8.30753665 34.127031,10.965799" id="Stroke-5" stroke="#333740"></path>
+                    <line x1="36.3584906" y1="0.880952381" x2="17.7358491" y2="19.3809524" id="Stroke-7" stroke="#333740"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

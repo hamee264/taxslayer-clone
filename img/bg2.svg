@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3794px" height="2965px" viewBox="0 0 3794 2965" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 40</title>
+    <defs>
+        <circle id="path-1" cx="688.5" cy="688.5" r="688.5"></circle>
+        <pattern id="pattern-3" width="36" height="64" x="-248.085262" y="-132.934109" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-4"></use>
+        </pattern>
+        <image id="image-4" width="36" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAABACAYAAAByZdXUAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAJKADAAQAAAABAAAAQAAAAABGvDJxAAACqklEQVRoBe1Yi1GkQBDVqwvADJwQCGFCMAQugzWCIwNDIIQtI2Az0AwIQTNY39sDa1imP8Pq1Vo1XdUC/T7TDDgs3B6Px5tril/X1Ax7qQ1ZV+S3RUjwgH3m1ji4hLypnTmAd0lEiM2xbkm6pqg3tXU16gzVGbJmwMJ/xD3U4Cw660y+AM+Ok5uhdwz2F9l+waCaxR7g/YogLOc96m/IOwE3HwGGrgPOCMiF1+IgAdkIG6JQ4mytq96a6Q7NMAJS45ViPfxGZHb2LTMK90iL58UbeDFaZFaTLSbkSDWCW4vrwQf4MEWuCCQiGozJsUeT47TwYERkDj/VRCARBbogeE95+DkO75cR2SNz+Gftc8cgdsAvWQbcem9DPEM29GQ0nvMLk5ZN5fBFbXFgCFrgjIAs0fXgj15NiTG5L8jBaw5eRDIekK6xXKTEbB6gSWqaxx68wck9+ZS8l/E5eED+QfIB7IlnkA4e4sypr0HzTEjb3O8hiftf6rUha5rrDFkzxHUoKiSuN68KvgW6g6gRhVhFtRgAaivxFixqA9aFUbxUE1D/y+oMWTNg4fUe+o4Z6mAqr7TLEUu4J2XpJWuh4rej95Pa/sPvP/wO5I+CR4P77TPxDNNjYpfU1MeNCp6ZdDjmyyIb+zad1zhMzbApr2bm8QR4Ik8e7Syytny/Gj2GAqdFndEg1bFUcBJHOiEekB6+xHmBfrA8JHFadxlZAwGPSIZ6YunAuf32n0fxB4acF2s9ckRK+I0IQFR0M2qDJFjA/huyS2qLHhYHZySKKGZjGq8UU30ls4AmGDukxNla5wmOyB658lgVJtKA7TjtS5xL6i28GRG58FkcTGBDJmJFRi3H31ob4Lc/98x9H+KD8xF58D8RNzE5xupXQ30Nsuay9PeQ5Xcx/gEMB3cJANNx6QAAAABJRU5ErkJggg=="></image>
+        <circle id="path-5" cx="570.5" cy="570.5" r="570.5"></circle>
+        <pattern id="pattern-7" width="14.2996689" height="16.5339921" x="-109.299669" y="-58.5339921" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-8" transform="scale(0.446864652,0.446864652)"></use>
+        </pattern>
+        <image id="image-8" width="32" height="37" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAlCAYAAAAjt+tHAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAJQAAAABkZu2DAAAAyElEQVRYCWP8//8/w0ACpoG0HGT3qANGQ2A0BEZDYDQERkNgwEOAhdTakJGRkYGFnd0BqC8fiAWA+AMQN/75+fMCOVU7I6maWDk4AoAWrgdiZAByhOPvHz8uIAsSwyYnCuqxGCwAFMMmjkUpqhA5DjBANQLOAzmCZECOAx7gsOUDDnG8wuQ4oBCHiRNxiOMXBiVCUjDINGAuCADi80D8H0o7gMRJMQemluRcALKImoCcKKCm/aOt4tEQGA2B0RAYDYHREBj4EAAA3kdqmxkxdcYAAAAASUVORK5CYII="></image>
+    </defs>
+    <g id="Traditional-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-40">
+            <circle id="Oval" fill="#1B5000" opacity="0.104355923" cx="795" cy="2170" r="795"></circle>
+            <g id="Rectangle" opacity="0.497774346" transform="translate(63.000000, 99.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <polygon fill="url(#pattern-3)" opacity="0.342182958" mask="url(#mask-2)" transform="translate(689.209811, 688.184592) scale(1, -1) rotate(-345.000000) translate(-689.209811, -688.184592) " points="-212.085262 -68.9341086 1590.50488 -68.9341086 1590.50488 1445.30329 -212.085262 1445.30329"></polygon>
+            </g>
+            <g id="Rectangle" transform="translate(2043.000000, 676.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="Mask"></g>
+                <polygon fill="url(#pattern-7)" opacity="0.342182958" mask="url(#mask-6)" transform="translate(518.500000, 473.500000) scale(1, -1) rotate(-360.000000) translate(-518.500000, -473.500000) " points="-95 -42 1132 -42 1132 989 -95 989"></polygon>
+            </g>
+            <circle id="Oval" fill="#C6E791" opacity="0.10337936" cx="3056" cy="738" r="738"></circle>
+        </g>
+    </g>
+</svg>

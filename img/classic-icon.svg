@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Classic-icon</title>
+    <g id="Classic-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(1, 1)">
+            <path d="M0,17.578125 C0,27.2862554 7.86999463,35.15625 17.578125,35.15625 C27.2862554,35.15625 35.15625,27.2862554 35.15625,17.578125 C35.15625,7.86999463 27.2862554,0 17.578125,0 C7.86999463,0 0,7.86999463 0,17.578125 Z" id="Path" fill="#FFEAE1"></path>
+            <g id="Group-2" transform="translate(13.9531, 7.9547)" stroke="#D82631" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M0,12.890625 C0,14.8322511 1.57399893,16.40625 3.515625,16.40625 C5.45725107,16.40625 7.03125,14.8322511 7.03125,12.890625 C7.03125,10.9489989 5.45725107,9.375 3.515625,9.375 C1.57399893,9.375 0,7.80100107 0,5.859375 C0,3.91774893 1.57399893,2.34375 3.515625,2.34375 C5.45725107,2.34375 7.03125,3.91774893 7.03125,5.859375" id="Path"></path>
+                <line x1="3.515625" y1="0" x2="3.515625" y2="2.34375" id="Path"></line>
+                <line x1="3.515625" y1="16.40625" x2="3.515625" y2="18.75" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>

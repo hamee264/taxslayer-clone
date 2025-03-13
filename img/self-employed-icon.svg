@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Self-employed-icon</title>
+    <g id="Self-employed-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(1, 1)">
+            <path d="M0,17.578125 C0,27.2862554 7.86999463,35.15625 17.578125,35.15625 C27.2862554,35.15625 35.15625,27.2862554 35.15625,17.578125 C35.15625,7.86999463 27.2862554,0 17.578125,0 C7.86999463,0 0,7.86999463 0,17.578125 Z" id="Path" fill="#D8F4FF"></path>
+            <g id="Group-7" transform="translate(9, 9)" stroke="#0973CC" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <polygon id="Stroke-1" points="0 15.7395 18.161 15.7395 18.161 3.6315 0 3.6315"></polygon>
+                <path d="M12.7129,3.632 C12.7129,1.626 11.0869,0 9.0809,0 C7.0749,0 5.4479,1.626 5.4479,3.632" id="Stroke-3"></path>
+                <line x1="0.0518" y1="8.475" x2="7.1958" y2="8.475" id="Stroke-4"></line>
+                <line x1="11.1951" y1="8.475" x2="18.2131" y2="8.475" id="Stroke-5"></line>
+                <path d="M7.2993,8.8656 C7.2993,7.6526 8.0973,6.6696 9.0803,6.6696 C10.0643,6.6696 10.8623,7.6526 10.8623,8.8656 C10.8623,10.0786 10.0643,11.0616 9.0803,11.0616 C8.0973,11.0616 7.2993,10.0786 7.2993,8.8656 Z" id="Stroke-6"></path>
+            </g>
+        </g>
+    </g>
+</svg>
