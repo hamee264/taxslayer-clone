@@ -680,6 +680,14 @@ footer .con{
         padding-bottom: 5px;
         gap: 10px;
     }
+    .section2 .section2-text h1{
+        font-size: 30px;
+        width: 100%;
+        max-width: none;
+    }
+    .section2 .section2-text p{
+        font-size: 17px;
+    }
 }
 @media (max-width:1147px) {
     .CardDiv .cards p {
@@ -775,6 +783,12 @@ footer .con{
      .CardDiv .cards {
         padding: 0.5rem 1rem;
         gap: 10px;
+    }
+    .section2 .section2-text h1{
+        font-size: 25px;
+    }
+    .section2 .section2-text p{
+        font-size: 14px;
     }
 }
 @media (max-width:950px) {
